@@ -171,7 +171,7 @@ Through this internship, I have:
 
 🔗 **GitHub:** https://github.com/poojaharshitha13
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile/
+🔗 **LinkedIn:** www.linkedin.com/in/poojaharshitha
 
 ---
 
