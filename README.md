@@ -1,20 +1,18 @@
 # 🚀 CodSoft Java Programming Internship
 
-![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
-![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 👩‍💻 About
 
-This repository contains the projects completed during my **Java Programming Virtual Internship** at **CodSoft**.
+Welcome to my **CodSoft Java Programming Internship** repository.
 
-The internship focuses on strengthening Java programming fundamentals, object-oriented programming concepts, problem-solving skills, and developing real-world console-based applications.
-
-Each project demonstrates clean coding practices, logical thinking, and practical implementation of Java concepts.
+This repository showcases the Java projects I successfully completed during my internship at **CodSoft**. These projects demonstrate my understanding of Java programming, Object-Oriented Programming (OOP), problem-solving, and software development fundamentals.
 
 ---
 
-## 🎯 Internship Details
+## 📌 Internship Details
 
 - **Organization:** CodSoft
 - **Role:** Java Programming Intern
@@ -23,119 +21,158 @@ Each project demonstrates clean coding practices, logical thinking, and practica
 
 ---
 
-# 📂 Projects
+# 📂 Completed Projects
 
 | Task | Project | Status |
 |------|---------|--------|
 | Task 1 | Number Guessing Game | ✅ Completed |
-| Task 2 | Student Grade Calculator | 🔄 In Progress |
-| Task 3 | ATM Interface | ⏳ Upcoming |
-| Task 4 | Quiz Application | ⏳ Upcoming |
-| Task 5 | Student Management System | ⏳ Upcoming |
+| Task 2 | Student Grade Calculator | ✅ Completed |
+| Task 3 | ATM Interface | ✅ Completed |
 
 ---
 
-## ✅ Task 1 – Number Guessing Game
+# 📖 Project Descriptions
 
-### 📌 Description
+## 🎯 Task 1 – Number Guessing Game
 
-A console-based Java application where the computer randomly generates a number and the user attempts to guess it within a limited number of attempts.
+A console-based Java application where the user guesses a randomly generated number within a limited number of attempts.
 
-### ✨ Features
-
+### Features
 - Random number generation
-- Multiple guessing attempts
+- User input validation
+- Score tracking
+- Multiple rounds
 - Hint messages (Too High / Too Low)
-- Score calculation
-- Play multiple rounds
-- User-friendly console interface
 
-### 🛠 Technologies Used
+---
+
+## 🎯 Task 2 – Student Grade Calculator
+
+A Java application that calculates the total marks, average percentage, and final grade based on marks entered for multiple subjects.
+
+### Features
+- Accepts marks for multiple subjects
+- Calculates total marks
+- Computes average percentage
+- Displays final grade
+- Simple and user-friendly interface
+
+---
+
+## 🎯 Task 3 – ATM Interface
+
+A console-based ATM simulation that allows users to perform basic banking operations securely.
+
+### Features
+- Deposit money
+- Withdraw money
+- Check account balance
+- Input validation
+- Interactive menu-driven interface
+
+---
+
+# 🛠 Technologies Used
 
 - Java
-- Eclipse IDE
-- Object-Oriented Programming
-- Java Random Class
-- Scanner Class
+- Object-Oriented Programming (OOP)
+- Eclipse IDE / IntelliJ IDEA
+- Git
+- GitHub
 
 ---
 
-## 📚 Java Concepts Covered
+# 💡 Java Concepts Covered
 
 - Variables & Data Types
+- Operators
 - Conditional Statements
 - Loops
 - Methods
 - Classes & Objects
 - Object-Oriented Programming
 - Exception Handling
-- User Input
-- Random Number Generation
+- Arrays
+- User Input (Scanner Class)
+- Random Class
 
 ---
 
-## ▶️ How to Run
+# ▶️ How to Run
 
-1. Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/poojaharshitha13/CODSOFT-_-TASKSNO.git
 ```
 
-2. Open the project in Eclipse or IntelliJ IDEA.
+### Navigate to the project folder
 
-3. Compile the Java file.
+```bash
+cd CODSOFT-_-TASKSNO
+```
 
-4. Run the application.
+### Compile the Java file
+
+```bash
+javac FileName.java
+```
+
+### Run the program
+
+```bash
+java FileName
+```
 
 ---
 
-## 📁 Repository Structure
+# 📁 Repository Structure
 
 ```
-CODSOFT-_-TASKSNO/
+CODSOFT-_-TASKSNO
 │
-├── Task1_NumberGame/
-├── Task2_StudentGradeCalculator/
-├── Task3_ATMInterface/
-├── Task4_QuizApplication/
-├── Task5_StudentManagementSystem/
+├── Task1_NumberGame
+├── Task2_StudentGradeCalculator
+├── Task3_ATMInterface
 └── README.md
 ```
 
 ---
 
-## 💡 Skills Demonstrated
+# 🎯 Skills Demonstrated
 
 - Java Programming
-- Problem Solving
 - Object-Oriented Programming (OOP)
-- Logical Thinking
+- Problem Solving
+- Algorithmic Thinking
 - Git & GitHub
-- Software Development
+- Console Application Development
 - Clean Code Practices
 
 ---
 
-## 🎓 Learning Outcomes
+# 📈 Learning Outcomes
 
-During this internship, I aim to:
+Through this internship, I have:
 
-- Strengthen Java programming skills
-- Improve problem-solving abilities
-- Build real-world projects
-- Learn software development best practices
-- Enhance Git and GitHub workflow
-
----
-
-## 📬 Connect With Me
-
-**Harshitha Gopisetty**
-
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- GitHub: https://github.com/poojaharshitha13
+- Strengthened my Java programming skills.
+- Improved logical and analytical thinking.
+- Gained hands-on experience in building console-based applications.
+- Enhanced my understanding of software development best practices.
+- Improved version control using Git and GitHub.
 
 ---
 
-⭐ If you found this repository helpful, consider giving it a **Star**.
+## 👩‍💻 Author
+
+**Gopisetty Pooja Harshitha**
+
+🎓 B.Tech – Computer Science and Engineering
+
+🔗 **GitHub:** https://github.com/poojaharshitha13
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile/
+
+---
+
+⭐ **If you found this repository useful, don't forget to Star it!**
